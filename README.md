@@ -6,4 +6,7 @@ Assignment descriptions: https://www.theodinproject.com/lessons/foundations-land
 Taking an image and constructing a web page from it: 
 https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
 
+Photo Credit: 
 Photo 1 (castle): Diogo Miranda https://www.pexels.com/photo/towers-of-castle-among-trees-27068594/
+
+photo 2 (mountains): Sergey Guk https://www.pexels.com/photo/majestic-snowy-mountain-landscape-in-winter-28489253/
